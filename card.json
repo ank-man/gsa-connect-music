@@ -1,0 +1,97 @@
+{
+  "slug": "julian-mercer",
+  "name": "Julian Mercer",
+  "pronouns": "he/him",
+  "title": "DMA Candidate, Cello Performance",
+  "headline": "Cellist, chamber musician, and champion of new Southern composers.",
+  "department": "Hugh Hodgson School of Music",
+  "organization": "University of Georgia",
+  "gsaRole": "GSA Member",
+  "badgeLabel": "GSA Member",
+  "location": "Athens, GA",
+  "photo": "",
+  "bio": "Graduate student at the University of Georgia. Cellist, chamber musician, and champion of new Southern composers. Open to collaborations, mentoring and good conversations.",
+  "email": "yourname@uga.edu",
+  "phone": "+1 706 555 0142",
+  "website": "https://example.com",
+  "cv": "assets/cv.pdf",
+  "calendar": "https://calendar.app.google/your-booking-link",
+  "researchInterests": [
+    "Drought stress memory",
+    "Root phenotyping",
+    "Epigenomics",
+    "Sorghum & millet",
+    "Open science"
+  ],
+  "links": [
+    {
+      "label": "YouTube",
+      "url": "https://www.youtube.com/",
+      "icon": "video"
+    },
+    {
+      "label": "Portfolio",
+      "url": "https://example.com",
+      "icon": "website"
+    },
+    {
+      "label": "Bluesky",
+      "url": "https://bsky.app/",
+      "icon": "social"
+    }
+  ],
+  "publications": [],
+  "projects": [
+    {
+      "title": "Recital: Voices of the South",
+      "description": "Nov 20 · Ramsey Concert Hall",
+      "url": "https://example.com"
+    },
+    {
+      "title": "Hodgson String Quartet",
+      "description": "Season in residence",
+      "url": "https://example.com"
+    }
+  ],
+  "education": [
+    {
+      "degree": "DMA Candidate, Cello Performance",
+      "school": "University of Georgia",
+      "years": "2024 – present"
+    }
+  ],
+  "awards": [],
+  "officeHours": "By appointment · use the booking link",
+  "events": [
+    {
+      "title": "GSA General Assembly",
+      "date": "Nov 4, 2026",
+      "where": "Tate Center 480",
+      "url": ""
+    },
+    {
+      "title": "Research Showcase Poster Night",
+      "date": "Nov 19, 2026",
+      "where": "Zell B. Miller Learning Center",
+      "url": ""
+    }
+  ],
+  "brand": {
+    "cardName": "GSA Connect",
+    "org": "UGA Graduate Student Association",
+    "orgShort": "UGA GSA"
+  },
+  "theme": {
+    "accent": ""
+  },
+  "poweredBy": {
+    "name": "ScholarTap",
+    "url": "https://scholartap.com"
+  },
+  "siteUrl": "",
+  "wallet": {
+    "backgroundColor": "#141009",
+    "foregroundColor": "#FFFFFF",
+    "labelColor": "#EDEDED"
+  }
+}
